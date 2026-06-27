@@ -8,7 +8,7 @@ import os
 
 # ── Page Config ────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="CricWeatherAI",
+    page_title="PitchIQ",
     page_icon="🏏",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -33,7 +33,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Header ─────────────────────────────────────────────────────────────────
-st.title("🏏 CricWeatherAI")
+st.title("🏏 PitchIQ")
 st.caption("Cricket Match Outcome Predictor with Weather Fusion · Final Year ML Project")
 
 # ── Load Model (cached so it doesn't reload every interaction) ─────────────
