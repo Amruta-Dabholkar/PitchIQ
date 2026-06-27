@@ -274,4 +274,4 @@ else:
     """)
 
 st.markdown("---")
-st.caption("Built with Streamlit · Data: Cricsheet.org + Open-Meteo · Final Year ML Project")
+st.caption("Built with Streamlit · Data: Cricsheet.org + Open-Meteo")
