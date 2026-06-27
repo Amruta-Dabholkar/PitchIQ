@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏏 CricWeatherAI
 ### Cricket Match Outcome Predictor with Weather Fusion
 
@@ -151,3 +152,7 @@ Computer Engineering Student · Data Science & Gen AI Enthusiast
 ---
 
 *"Weather is not background noise in cricket — it's an invisible player."*
+=======
+# PitchIQ
+Weather-aware cricket match predictor powered by ML
+>>>>>>> c2ad966b942a15988bad69b97e8876cf0e10f39b
