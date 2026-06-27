@@ -18,11 +18,11 @@
 ### Feature Impact Chart
 ![Feature Impact](screenshots/pitchiq-feature-impact.png)
 
-### Live Weather Fetch
-![Live Weather](screenshots/pitchiq-live-weather.png)
-
 ### How It Works
 ![How It Works](screenshots/pitchiq-how-it-works.png)
+
+### Live Weather Fetch
+![Live Weather](screenshots/pitchiq-live-weather.png)
 
 ---
 
