@@ -34,7 +34,7 @@ st.markdown("""
 
 # ── Header ─────────────────────────────────────────────────────────────────
 st.title("🏏 PitchIQ")
-st.caption("Cricket Match Outcome Predictor with Weather Fusion · Final Year ML Project")
+st.caption("Cricket Match Outcome Predictor with Weather Fusion. Powered by XGBoost")
 
 # ── Load Model (cached so it doesn't reload every interaction) ─────────────
 @st.cache_resource
