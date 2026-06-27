@@ -155,11 +155,25 @@ pace_decay  = rain_factor × (1.4 if pace_friendly_venue else 0.7)
 
 ## 👤 Author
 
-**Amruta Dabholkar**
-Computer Engineering Student · Data Science & GenAI Enthusiast
-Currently interning at **Lenovo LEAP** (GenAI & Agentic Systems)
+## 👤 Author
 
-[GitHub](https://github.com/Amruta-Dabholkar) · [LinkedIn](https://www.linkedin.com/in/amruta-dabholkar)
+**Amruta Dabholkar**
+3rd Year Computer Engineering Student · YBIT, Sawantwadi | CGPA: 8.50
+
+🤖 Gen AI & Agentic Systems Intern @ Lenovo LEAP
+📊 Data Science Intern @ Cognifyz Technologies
+🏏 Built PitchIQ as my first end-to-end ML project — from raw data to live deployment
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amruta-dabholkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amruta_Dabholkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Amruta-Dabholkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Amruta--Dabholkar-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
