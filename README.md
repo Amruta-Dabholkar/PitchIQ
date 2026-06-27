@@ -12,7 +12,17 @@
 
 ## 📸 Preview
 
-*(Add a screenshot of the live app here — drag and drop an image into this section on GitHub)*
+### Match Prediction
+![Prediction](screenshots/pitchiq-prediction.png)
+
+### Feature Impact Chart
+![Feature Impact](screenshots/pitchiq-feature-impact.png)
+
+### Live Weather Fetch
+![Live Weather](screenshots/pitchiq-live-weather.png)
+
+### How It Works
+![How It Works](screenshots/pitchiq-how-it-works.png)
 
 ---
 
