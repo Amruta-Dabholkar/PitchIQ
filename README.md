@@ -149,7 +149,7 @@ pace_decay  = rain_factor × (1.4 if pace_friendly_venue else 0.7)
 - Weather data for older matches can be sparse, limiting accuracy gains in early dataset years
 - Team form uses a rolling window — no player-level injury or availability data
 - Trained on T20I internationals; may not generalize to ODIs or domestic leagues without retraining
-- This is my first end-to-end ML project, built as a 2nd year CS student — feedback welcome
+- This is my first end-to-end ML project, built as a 3rd year Computer Engineering student — feedback welcome
 
 ---
 
